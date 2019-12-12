@@ -1,0 +1,780 @@
+1	а	а	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#840.8#841.184
+2	какой	какой	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#841.184#841.568
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	@vvp1934m-words#@vvp1934m#841.568#841.952
+4	видите	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#841.952#842.336
+5	основную	основной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#842.336#842.72
+6	проблему	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#842.72#843.104
+7	нашего	наш	POS|PRON	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#843.104#843.488
+8	кино	кино	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#843.488#843.872
+9	сегодня	сегодня	ADV	_	_	_	_	_	@vvp1934m-words#@vvp1934m#843.872#844.162
+10	?	?	PUNCT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#844.162#844.262
+11	а	а	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#844.686#844.911
+12	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#844.911#845.136
+13	не	не	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#845.136#845.361
+14	видите	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#845.361#845.586
+15	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@vvp1934m-words#@vvp1934m#845.586#845.811
+16	не	не	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#845.811#846.036
+17	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#846.036#846.266
+18	серьезное	серьезный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#871.627#872.254
+19	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#872.254#872.882
+20	а	а	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#872.882#873.119
+21	как	как	SCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#873.119#873.356
+22	по	по	ADP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#873.356#873.593
+23	Вашему	ваш	PRON	_	Case=Dat|Gender=Neut|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#873.593#873.832
+24	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#873.832#874.449
+25	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	@vvp1934m-words#@vvp1934m#874.449#875.066
+26	финансировать	финансировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#875.066#875.683
+27	кино	кино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#875.683#876.202
+28	?	?	PUNCT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#876.202#876.302
+29	и	и	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#876.312#876.61
+30	сразу	сразу	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#876.61#876.908
+31	в	в	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#876.908#877.206
+32	след	след	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#877.206#877.504
+33	за	за	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#877.504#877.802
+34	этим	этот	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#877.802#878.1
+35	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#878.1#878.402
+36	так	так	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#878.41#878.745
+37	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#878.745#879.08
+38	как	как	SCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#879.18#879.43
+39	у	у	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#879.43#879.68
+40	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	@vvp1934m-words#@vvp1934m#879.68#879.93
+41	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#879.93#880.18
+42	Чуть	Чуть	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#880.18#880.72
+43	грубовато	грубовато	ADV	_	_	_	_	_	@vvp1934m-words#@vvp1934m#880.72#881.26
+44	конечно	конечно	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#881.26#881.8
+45	aaa	aaa	PART	_	_	_	@vvp1934m-words#@vvp1934m#881.8#883.2
+46	кто	кто	PRON	_	Case=Nom	_	_	_	@vvp1934m-words#@vvp1934m#884.7#885.017
+47	ужинает	ужинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#885.017#885.334
+48	девушку	девушка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#885.334#885.651
+49	тот	тот	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#885.651#885.968
+50	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	_	_	_	@vvp1934m-words#@vvp1934m#885.968#886.285
+51	и	и	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#886.285#886.602
+52	танцует	танцевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#886.602#886.925
+53	так	так	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#886.925#887.212
+54	вот	вот	PRON	_	_	_	_	_	@vvp1934m-words#@vvp1934m#887.212#887.499
+55	как	как	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#887.499#887.786
+56	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	@vvp1934m-words#@vvp1934m#887.786#888.073
+57	к	к	ADP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#888.073#888.36
+58	этому	это	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#888.36#888.647
+59	относитесь	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	@vvp1934m-words#@vvp1934m#888.647#888.935
+60	к	к	ADP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#888.935#889.285
+61	первому	первый	NUM	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#889.285#889.635
+62	и	и	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#889.635#889.985
+63	ко	к	ADP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#889.985#890.335
+64	второму	второму?	NUM	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#890.335#890.585
+65	?	?	PUNCT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#890.585#890.685
+66	а	а	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#922.21#922.707
+67	как	как	SCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#922.707#923.204
+68	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#923.204#923.701
+69	пониимать	пониимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#923.701#924.198
+70	Ваши	ваш	PRON	_	Case=Acc|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#924.198#924.695
+71	слова	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#924.695#925.192
+72	насчет	насчет	DPREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#925.192#925.689
+73	патриотического	патриотический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#925.689#926.186
+74	кино	кино	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#926.186#926.59
+75	?	?	PUNCT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#926.59#926.69
+76	ну	ну	INTJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#926.715#927.135
+77	например	например	PARENT	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#927.135#927.555
+78	Левиафан	Левиафан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#927.555#927.975
+79	патриотическое	патриотический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#927.975#928.395
+80	с	с	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#929.68#930.18
+81	Вашей	ваш	PRON	_	Case=Gen|Gender=Fem|Number=Plur_	_	_	@vvp1934m-words#@vvp1934m#930.18#930.68
+82	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#930.68#931.18
+83	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#931.18#931.68
+84	ну	ну	INTJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#938.685#938.972
+85	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#938.972#939.259
+86	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	@vvp1934m-words#@vvp1934m#939.259#939.546
+87	уходите	уходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#939.546#939.833
+88	та	тот	PART	_		_	_	_	@vvp1934m-words#@vvp1934m#939.833#940.12
+89	та	та	PART	_		_	_	_	@vvp1934m-words#@vvp1934m#940.12#940.407
+90	та	тот	PART	_		_	_	_	@vvp1934m-words#@vvp1934m#940.407#940.695
+91	так	так	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#950.985#951.29
+92	вот	вот	PRON	_	_	_	_	_	@vvp1934m-words#@vvp1934m#951.29#951.595
+93	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@vvp1934m-words#@vvp1934m#979.98#980.533
+94	все-таки	все-таки	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#980.533#981.086
+95	хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#981.086#981.639
+96	аа	а	INTJ	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#981.639#982.192
+97	этот	этот	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#982.192#982.745
+98	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#982.745#983.298
+99	довести	довести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#983.298#983.851
+100	до	до	ADP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#983.851#984.41
+101	логического	логический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#984.6#985.346
+102	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#985.346#986.092
+103	для	для	ADP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#986.092#986.838
+104	Вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2	_	_	_	@vvp1934m-words#@vvp1934m#986.838#987.584
+105	патриотическое	патриотический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#987.584#988.33
+106	кино	кино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#988.33#989.076
+107	это	это	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#989.076#989.822
+108	такое	такой	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#989.822#990.568
+109	кино	кино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#990.568#991.314
+110	которое	который	SCONJ	_	Case=Acc	_	_	_	@vvp1934m-words#@vvp1934m#991.314#992.06
+111	не	не	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#992.06#992.806
+112	аа	ао	PART	_		_	_	_	@vvp1934m-words#@vvp1934m#992.806#993.552
+113	критикует	критиковать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#993.552#994.3
+114	хорошо	хорошо	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1002.9#1004.0
+115	ладно	ладно	ADV	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1005.015#1005.413
+116	поговорим	говорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1005.413#1005.811
+117	о	о	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1005.811#1006.209
+118	соби	собь	PART	_	_	_	_	@vvp1934m-words#@vvp1934m#1006.209#1006.607
+119	о	о	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1006.607#1007.005
+120	собиборе	собибор	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1007.005#1007.405
+121	ааа	аа	PART	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1007.815#1008.315
+122	придворительный	придворительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1008.315#1008.81
+123	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1008.81#1009.305
+124	где-то	где-то	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1009.515#1009.837
+125	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@vvp1934m-words#@vvp1934m#1009.837#1010.159
+126	вычитал	вычитать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1010.159#1010.481
+127	правда	правда	NOUN	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1010.481#1010.803
+128	или	или	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1010.803#1011.125
+129	нет	нет	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1011.125#1011.447
+130	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@vvp1934m-words#@vvp1934m#1011.447#1011.769
+131	не	не	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1011.769#1012.091
+132	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1012.091#1012.415
+133	что	что	SCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1012.8#1013.182
+134	сама	сам	PRON	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1013.182#1013.564
+135	идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1013.564#1013.946
+136	этого	этот	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1013.946#1014.328
+137	фильма	фильм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1014.328#1014.71
+138	принадлежит	принадлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1014.71#1015.092
+139	министру	министр	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1015.092#1015.474
+140	культуры	культура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1015.474#1015.856
+141	господину	господин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1015.856#1016.238
+142	Мединскому	Мединский	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1016.238#1016.62
+143	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1016.62#1017.002
+144	так	так?	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1017.002#1017.29
+145	?	?	PUNCT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1017.29#1017.39
+146	а	а	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1027.88#1028.363
+147	режиссер	режиссер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1028.363#1028.846
+148	разве	разве	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1028.846#1029.329
+149	не	не	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1029.329#1029.812
+150	автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1029.812#1030.295
+151	идеи	идеи	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1030.295#1030.68
+152	?	?	PUNCT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1030.68#1030.78
+153	давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1032.885#1033.505
+154	так	так	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1044.12#1044.71
+155	разные	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#1098.01#1098.63
+156	разные	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#1098.63#1099.25
+157	конечно	конечно	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1099.25#1099.87
+158	да	да	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1099.87#1100.49
+159	аа	ао	PART	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1101.69#1102.125
+160	где-то	ADV	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1102.125#1102.56
+161	ээ	ээ	PART	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1102.56#1102.995
+162	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@vvp1934m-words#@vvp1934m#1102.995#1103.5
+163	тоже	тоже	ADV	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1103.5#1104.005
+164	вычитал	вычитать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1104.005#1104.51
+165	что	что	SCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1104.51#1105.015
+166	аа	ао	PART	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1105.02#1105.317
+167	отрывки	отрывок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1105.317#1105.614
+168	из	из	ADP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1105.614#1105.911
+169	этого	этот	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1105.911#1106.208
+170	фильма	фильм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1106.208#1106.505
+171	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1106.505#1106.802
+172	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1106.802#1107.099
+173	да	да	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1107.099#1107.35
+174	?	?	PUNCT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1107.35#1107.4
+175	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1108.28#1108.688
+176	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	@vvp1934m-words#@vvp1934m#1108.688#1109.096
+177	что-нибудь	что-нибудь	ADV	_	Case=Acc	_	_	_	@vvp1934m-words#@vvp1934m#1109.096#1109.504
+178	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1109.504#1109.912
+179	по	по	ADP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1109.912#1110.32
+180	этому	этот	PRON	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1110.32#1110.728
+181	поводу	поводу	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1110.728#1111.036
+182	?	?	PUNCT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1111.036#1111.136
+183	посмотрел	смотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1111.136#1111.544
+184	и	и	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1111.544#1111.952
+185	посмотрел	смотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1111.952#1112.36
+186	и	и	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1112.36#1112.89
+187	все	все	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1112.89#1113.42
+188	не	не	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1113.42#1113.95
+189	высказался	высказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	@vvp1934m-words#@vvp1934m#1113.95#1114.48
+190	хорошо	хорошо	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1114.48#1115.01
+191	ааа	аа	PART	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1115.08#1116.18
+192	почему	почему	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1116.605#1117.01
+193	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	@vvp1934m-words#@vvp1934m#1117.01#1117.415
+194	решили	решать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1117.415#1117.82
+195	вот	вот	PRON	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1117.82#1118.362
+196	свой	свой	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1118.362#1118.904
+197	дебют	дебют	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1118.904#1119.446
+198	режисерский	режисерский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1119.446#1119.988
+199	в	в	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1119.988#1120.53
+200	кино	кино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1120.53#1121.075
+201	вот	вот	PARENT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1121.075#1121.301
+202	начать	начать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1121.301#1121.527
+203	с	с	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1121.527#1121.753
+204	такой	такой	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1121.753#1121.98
+205	с	с	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1121.98#1122.647
+206	такой	такой	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1122.647#1123.314
+207	темы	тема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1123.314#1123.981
+208	с	с	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1123.981#1124.648
+209	Собибора	Собибор	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1124.648#1125.315
+210	что	что	SCONJ	_	Case=Nom	_	_	_	@vvp1934m-words#@vvp1934m#1125.315#1125.982
+211	привлекло	привлечь	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1125.982#1126.649
+212	Вас	вас	PRON	_	Case=Acc|Number=Plur|Person=2	_	_	_	@vvp1934m-words#@vvp1934m#1126.649#1127.216
+213	?	?	PUNCT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1127.216#1127.316
+214	эээ	эээ	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1127.316#1127.99
+215	во-первых	во-первых	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1128.61#1129.085
+216	тема	тема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1129.085#1129.56
+217	ведь	ведь	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1129.56#1130.035
+218	довольно	довольно	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1130.035#1130.51
+219	несвежая	несвежий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1131.0#1131.483
+220	ну	ну	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1131.483#1131.966
+221	много	много	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1131.966#1132.449
+222	делали	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1132.449#1132.932
+223	фильмов	фильм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#1132.932#1133.415
+224	аа	а	PART	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1133.415#1133.898
+225	в	в	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1133.898#1134.381
+226	разные	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#1134.381#1134.864
+227	времена	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#1134.864#1135.347
+228	о	о	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1135.347#1135.83
+229	лагерях	лагерь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#1135.83#1136.313
+230	об	о	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1136.313#1136.796
+231	ужасах	ужас	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#1136.796#1137.29
+232	о	о	PREP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1137.29#1137.733
+233	попытках	попытка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	@vvp1934m-words#@vvp1934m#1137.733#1138.176
+234	даже	даже	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1138.176#1138.619
+235	восстать	восстать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1138.619#1139.062
+236	но	но	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1139.062#1139.505
+237	и	и	SCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1139.505#1139.948
+238	кроме	кроме	PARENT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1139.948#1140.391
+239	того	то	PARENT	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1140.391#1140.834
+240	на	на	PREP_	_	_	@vvp1934m-words#@vvp1934m#1140.834#1141.277
+241	мой	мой	PROPNCase=Acc|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1141.277#1141.72
+242	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1141.72#1142.163
+243	сегодня	сегодня	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1142.163#1142.606
+244	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	@vvp1934m-words#@vvp1934m#1142.606#1143.049
+245	не	не	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1143.049#1143.492
+246	сильно	сильно	ADV	_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1143.492#1143.935
+247	востребована	востребовать	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	@vvp1934m-words#@vvp1934m#1143.935#1144.378
+248	к	к	ADP	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1144.378#1144.821
+249	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	@vvp1934m-words#@vvp1934m#1144.821#1145.264
+250	но	но	CCONJ	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1145.264#1145.707
+251	вот	вот	PRON_	_	_	_	_	@vvp1934m-words#@vvp1934m#1145.707#1146.15
+252	что	что	SCONJ_	Case=Nom	_	_	_	@vvp1934m-words#@vvp1934m#1146.15#1146.593
+253	Вас	Вас	PRON	_	Case=Gen|Number=Plur|Person=2	_	_	_	@vvp1934m-words#@vvp1934m#1146.593#1147.036
+254	привлекло	привлекло	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@vvp1934m-words#@vvp1934m#1147.036#1147.38
+255	?	?	PUNCT	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1147.38#1147.48
+256	да	да	PART_	_	_	_	_	@vvp1934m-words#@vvp1934m#1151.69#1152.09
+257	да	да	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1152.09#1152.323
+258	да	да	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1152.323#1152.556
+259	да	да	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1152.556#1152.79
+260	конечно	конечно	PARENT_	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1176.915#1177.46
+261	конечно	конечно	PARENT	Degree=Pos	_	_	_	@vvp1934m-words#@vvp1934m#1177.46#1178.005
+262	да	да	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1181.3#1181.96
+263	да	да	PART	_	_	_	_	_	@vvp1934m-words#@vvp1934m#1181.96#1182.62
+264	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#849.606#850.158
+265	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#850.158#850.711
+266	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#850.711#851.411
+267	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#851.411#852.111
+268	спешка	спешка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#853.816#854.876
+269	поскорее	скоро	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#855.241#855.937
+270	освоить	освоить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#855.937#856.633
+271	бюджет	бюджет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#856.633#857.331
+272	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#859.985#860.652
+273	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#860.652#861.319
+274	недоделанные	недоделанный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#861.319#861.986
+275	сценарии	сценарий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#861.986#862.655
+276	недоделанные	недоделанный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#862.655#863.742
+277	локации	локация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#863.742#864.83
+278	недокастинг	недокастинг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#864.847#866.827
+279	актерский	актерский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#867.002#868.092
+280	недорежиссеринг	недорежиссеринг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#868.092#869.817
+281	актерский	актерский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#869.817#871.027
+282	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#891.67#892.094
+283	считаю	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#892.094#892.518
+284	что	что	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#892.518#892.942
+285	да	да	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#892.942#893.366
+286	конечно	конечно	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#893.366#893.79
+287	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#893.79#894.214
+288	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	@kyk1972m-words#@kyk1972m#894.214#894.638
+289	финансировать	финансировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#894.638#895.062
+290	кино	кино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#895.062#895.49
+291	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#895.49#895.763
+292	в	в	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#895.763#896.036
+293	первую	первый	NUM_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#896.036#896.309
+294	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#896.309#896.582
+295	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#896.582#896.855
+296	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#896.855#897.128
+297	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#897.128#897.401
+298	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#897.401#897.674
+299	десять	десять	NUM	_	Case=Acc	_	_	_	@kyk1972m-words#@kyk1972m#897.674#897.947
+300	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#897.947#898.22
+301	пятнадцать	пятнадцать	NUM	_	Case=Acc	_	_	_	@kyk1972m-words#@kyk1972m#898.22#898.493
+302	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#898.493#898.766
+303	двадцать	двадцать	NUM	_	Case=Acc	_	_	_	@kyk1972m-words#@kyk1972m#898.766#899.039
+304	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#899.039#899.312
+305	назад	назад	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#899.312#899.59
+306	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#899.59#899.959
+307	в	в	PREP_	_	_	_	_	@kyk1972m-words#@kyk1972m#899.959#900.328
+308	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#900.328#900.697
+309	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#900.697#901.066
+310	то	то	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#901.066#901.435
+311	кино	кино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#901.435#901.804
+312	которое	который	SCONJ_	Case=Acc	_	_	_	@kyk1972m-words#@kyk1972m#901.804#902.175
+313	ааа	аа	PART 	_	_	_	@kyk1972m-words#@kyk1972m#902.175#902.985
+314	извините	извинить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#902.985#903.607
+315	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#903.607#904.229
+316	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#904.229#904.851
+317	патриотическим	патриотический	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#904.851#905.475
+318	то	то	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#905.475#905.915
+319	кино	кино	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#905.915#906.355
+320	которое	который	SCONJ_	Case=Acc	_	_	_	@kyk1972m-words#@kyk1972m#906.355#906.795
+321	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#906.795#907.235
+322	о	о	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#907.235#907.675
+323	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#907.675#908.115
+324	о	о	PREP_	_	_	_	@kyk1972m-words#@kyk1972m#908.115#908.48
+325	нашей	наш	PRONCase=Loc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#908.48#908.845
+326	стране	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#908.845#909.21
+327	о	о	PREP_	_	_	_	_	@kyk1972m-words#@kyk1972m#909.725#910.181
+328	том	тот	PRON_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#910.181#910.637
+329	кто	кто	PRON	_	Case=Nom	_	_	_	@kyk1972m-words#@kyk1972m#910.637#911.093
+330	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#911.093#911.549
+331	есть	есть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#911.549#912.005
+332	и	и	CCONJ	_	_	_	_	@kyk1972m-words#@kyk1972m#913.39#913.793
+333	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#913.793#914.196
+334	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	@kyk1972m-words#@kyk1972m#914.196#914.6
+335	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#914.81#915.14
+336	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#915.14#915.47
+337	относиться	относиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#915.47#915.8
+338	и	и	CCONJ_	_	_	_	@kyk1972m-words#@kyk1972m#915.8#916.13
+339	к	к	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#916.13#916.46
+340	мм		PART_	_	_	_	@kyk1972m-words#@kyk1972m#916.46#917.2
+341	военной	военный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#917.605#917.986
+342	тематике	тематика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#917.986#918.367
+343	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#918.367#918.748
+344	к	к	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#918.748#919.129
+345	спортивной	спортивный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#919.129#919.51
+346	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#919.51#919.891
+347	к	к	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#919.891#920.272
+348	мелодраммам	мелодрамма	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#920.272#920.66
+349	ко	к	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#920.66#921.067
+350	многому	многое	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#921.067#921.474
+351	ко	к	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#921.474#921.881
+352	многому	многое	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#921.881#922.29
+353	с	с	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#934.68#935.34
+354	моей	мой	PRON_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#935.34#936.0
+355	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#936.0#936.66
+356	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#936.66#937.32
+357	Левиафан	Левиафан	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#937.32#937.98
+358	фестивальное	фестивальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#937.98#938.64
+359	кино	кино	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#938.64#939.3
+360	щас	щас	PART_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#940.185#940.446
+361	щас	щас	PART_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#940.446#940.707
+362	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#940.707#940.968
+363	Вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	_	_	_	@kyk1972m-words#@kyk1972m#940.968#941.229
+364	скажу	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#941.229#941.49
+365	фестивальное	фестивальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#941.49#942.018
+366	кино	кино	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#942.018#942.546
+367	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#942.546#943.074
+368	разное	разный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#943.074#943.602
+369	фестивальное	фестивальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#943.602#944.13
+370	кино	кино	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#944.13#944.658
+371	ааа	аа	PART_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#944.658#945.19
+372	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#945.19#945.575
+373	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#945.575#945.96
+374	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#945.96#946.345
+375	с	с	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#946.345#946.73
+376	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#946.73#947.115
+377	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#947.115#947.5
+378	минус	минус	NON	_	_	_	@kyk1972m-words#@kyk1972m#947.5#947.89
+379	анти	анть PART	_	_	@kyk1972m-words#@kyk1972m#948.995#949.642
+380	патриотическое	патриотический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#949.642#950.29
+381	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#950.29#950.63
+382	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#950.63#950.97
+383	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#950.97#951.29
+384	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#951.29#951.61
+385	да	да	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#951.61#951.93
+386	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#951.93#952.437
+387	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#952.437#952.944
+388	да	да	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#952.944#953.451
+389	ааа	аа	PART_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#953.451#953.96
+390	еще	еще	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#953.96#954.436
+391	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#954.436#954.912
+392	скажу	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#954.912#955.39
+393	потому	потому	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#955.68#956.081
+394	что	что	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#956.081#956.482
+395	в	в	PREP_	_	_	_	_	@kyk1972m-words#@kyk1972m#956.482#956.883
+396	первую	первый	NUM_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#956.883#957.284
+397	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#957.284#957.685
+398	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#957.685#958.086
+399	направлено	направить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	@kyk1972m-words#@kyk1972m#958.086#958.487
+400	не	не	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#958.487#958.888
+401	на	на	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#958.888#959.289
+402	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#959.289#959.69
+403	прокат	прокат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#959.69#960.091
+404	а	а	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#960.091#960.492
+405	на	на	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#960.492#960.893
+406	фестиваль	фестиваль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#960.893#961.3
+407	ну	ну	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#961.59#961.964
+408	по	по	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#961.964#962.338
+409	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#962.338#962.712
+410	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#962.712#963.086
+411	то	то	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#963.086#963.46
+412	как	как	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#963.46#963.834
+413	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#963.834#964.208
+414	увидел	видеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#964.208#964.582
+415	продвижение	продвижение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#964.582#964.956
+416	этого	этот	PRON_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#964.956#965.33
+417	фильма	фильм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#965.33#965.71
+418	если	если	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#966.015#966.387
+419	бы	бы	PART_	_	_	_	_	@kyk1972m-words#@kyk1972m#966.387#966.759
+420	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#966.759#967.131
+421	было	быть	VERB_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#967.131#967.503
+422	наооборот	наооборот	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#967.503#967.875
+423	то	то	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#967.875#968.345
+424	тогда	тогда	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#968.345#968.815
+425	бы	бы	PREP_	_	_	_	_	@kyk1972m-words#@kyk1972m#968.815#969.285
+426	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#969.285#969.755
+427	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#969.755#970.225
+428	да	да	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#970.225#970.695
+429	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#972.65#973.075
+430	ммм	мм	PARTAnimacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#973.075#973.5
+431	прошло	пройти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#973.5#973.931
+432	через	через	ADV_	_	_	_	_	@kyk1972m-words#@kyk1972m#973.931#974.362
+433	сито	сито	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#974.362#974.793
+434	наших	наш	PRON_	Case=Gen|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#974.793#975.224
+435	кинотеатров	кинотеатр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#975.224#975.655
+436	через	через	ADV_	_	_	_	_	@kyk1972m-words#@kyk1972m#975.655#976.086
+437	зрителей	зритель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#976.086#976.517
+438	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#976.517#976.948
+439	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#976.948#977.379
+440	вышло	выйти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#977.379#977.81
+441	на	на	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#977.81#978.241
+442	экраны	экран	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#978.241#978.68
+443	другой	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#979.715#980.051
+444	немножко	немножко	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#980.051#980.387
+445	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#980.387#980.725
+446	нет	нет	AUX_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#993.695#994.089
+447	нет	нет	AUX_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#994.089#994.483
+448	нет	нет	AUX_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#994.483#994.877
+449	конечно	конечно	PARENT	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#994.877#995.271
+450	нет	нет	AUX_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#995.271#995.665
+451	конечно	конечно	PARENT_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#995.665#995.827
+452	нет	нет	AUX_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#995.827#995.99
+453	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#995.99#996.262
+454	кино	кино	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#996.262#996.534
+455	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#996.534#996.806
+456	с	с	PREP_	_	_	_	_	@kyk1972m-words#@kyk1972m#996.806#997.078
+457	болью	боль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#997.078#997.35
+458	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#997.35#997.622
+459	кино	кино	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#997.622#997.894
+460	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#997.894#998.166
+461	с	с	PREP_	_	_	_	@kyk1972m-words#@kyk1972m#998.166#998.438
+462	эээ	эээ	PARTAnimacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#998.438#998.71
+463	но	но	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#998.99#999.412
+464	это	это	PRON_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#999.412#999.834
+465	кино	кино	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#999.834#1000.256
+466	созидательное	созидательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1000.256#1000.678
+467	все-таки	все-таки	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1000.678#1001.1
+468	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1001.1#1001.522
+469	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#1001.522#1001.944
+470	в	в	PREP_	_	_	_	@kyk1972m-words#@kyk1972m#1001.944#1002.366
+471	первую	первый	NUM_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1002.366#1002.788
+472	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1002.788#1003.21
+473	созидательное	созидательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1003.21#1003.632
+474	при	при	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1003.632#1004.054
+475	любом	любой	ADJ_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1004.054#1004.476
+476	финале	финал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1004.476#1004.9
+477	ну	ну	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1017.57#1017.938
+478	так	так	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1017.938#1018.306
+479	написано	писать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	@kyk1972m-words#@kyk1972m#1018.306#1018.674
+480	в	в	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1018.674#1019.042
+481	титрах	титр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1019.042#1019.41
+482	это	этот	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1019.41#1019.778
+483	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1019.778#1020.146
+484	к	к	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1020.146#1020.514
+485	продюссерам	продюссер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1020.514#1020.89
+486	это	этот	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1022.095#1022.356
+487	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1022.356#1022.617
+488	к	к	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1022.617#1022.878
+489	продюссерам	продюссер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1022.878#1023.14
+490	в	в	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1023.14#1023.52
+491	превую	превой	NUM_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1023.52#1023.9
+492	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1023.9#1024.28
+493	автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1024.28#1025.295
+494	идеи	идея	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1025.295#1026.31
+495	фильм	фильм	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1027.5#1027.878
+496	а	а	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1027.878#1028.256
+497	точнее	точно	ADV	_	Degree=Cmp	_	_	_	@kyk1972m-words#@kyk1972m#1028.256#1028.634
+498	не	не	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1028.634#1029.012
+499	фильм	фильм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1029.012#1029.39
+500	щас	щас	PART_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1030.8#1031.126
+501	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1031.126#1031.452
+502	ск	ск	PART_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1031.452#1031.778
+503	щас	щас	PART_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1031.778#1032.104
+504	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1032.104#1032.43
+505	попробую	пробовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1032.43#1032.756
+506	ответить	ответить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1032.756#1033.082
+507	спокойно	спокойно	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1033.082#1033.41
+508	эээ	эээ	PART_	_	_	_	_	@kyk1972m-words#@kyk1972m#1033.41#1034.09
+509	сама	сам	PRON_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1034.09#1035.1
+510	идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1035.39#1036.223
+511	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1036.223#1037.056
+512	сценарии	сценарий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1037.056#1037.89
+513	в	в	PREP_	_	_	_	_	@kyk1972m-words#@kyk1972m#1038.435#1038.856
+514	разных	разный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1038.856#1039.277
+515	вариантах	вариант	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1039.277#1039.7
+516	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1039.7#1040.119
+517	читал	читать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1040.119#1040.538
+518	наверное	наверное	PARENT_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1040.538#1040.957
+519	их	их	PRON_	_	_	_	_	@kyk1972m-words#@kyk1972m#1040.957#1041.376
+520	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1041.376#1041.795
+521	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1041.795#1042.214
+522	четыре	четыре	NUM	_	Animacy=Inan|Case=Acc	_	_	_	@kyk1972m-words#@kyk1972m#1042.214#1042.633
+523	назад	назад	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1042.633#1043.055
+524	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	_	_	_	@kyk1972m-words#@kyk1972m#1043.055#1043.603
+525	из	из	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1043.603#1044.151
+526	вариантов	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1044.151#1044.7
+527	аа	ао	PART_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1044.7#1045.187
+528	тогда	тогда	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1045.187#1045.674
+529	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1045.674#1046.161
+530	прошел	пройти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1046.161#1046.648
+531	мимо	мимо	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1046.648#1047.135
+532	этой	этот	PRON_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1047.135#1047.622
+533	истории	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1047.622#1048.11
+534	потом	потом	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1048.11#1048.456
+535	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1048.456#1048.802
+536	через	через	ADV_	_	_	_	_	@kyk1972m-words#@kyk1972m#1048.802#1049.148
+537	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	_	_	_	@kyk1972m-words#@kyk1972m#1049.148#1049.494
+538	к	к	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1049.494#1049.84
+539	ээ	ээ	PART_	Foreign=Yes	_	_	_	@kyk1972m-words#@kyk1972m#1049.84#1050.186
+540	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#1050.186#1050.532
+541	ко	к	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1050.532#1050.878
+542	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1050.878#1051.224
+543	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#1051.224#1051.57
+544	уже	уже	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1051.57#1051.916
+545	по-моему	по-моему	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1051.916#1052.262
+546	аа	а	PART_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1052.262#1052.608
+547	другой	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1052.608#1052.954
+548	был	быть	VERB_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1052.954#1053.3
+549	автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1053.3#1053.646
+550	сценария	сценарий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1053.646#1053.992
+551	не	не	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1053.992#1054.338
+552	по-моему	по-моему	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1054.338#1054.684
+553	а	а	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1054.684#1055.03
+554	точно	точно	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1055.03#1055.39
+555	мм	мм	PARTAnimacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1056.49#1056.975
+556	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1056.975#1057.46
+557	показалось	казаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#1057.46#1057.945
+558	что	что	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1057.945#1058.43
+559	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1058.43#1058.915
+560	симпатичная	симпатичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1058.915#1059.4
+561	детективная	детективный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1059.4#1060.267
+562	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1060.267#1061.135
+563	про	про	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1061.135#1061.745
+564	ааа	аа	PART_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1061.745#1062.355
+565	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1062.355#1062.965
+566	заключенных	заключенный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1062.965#1063.575
+567	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1063.575#1064.185
+568	про	про	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1064.185#1064.795
+569	побег	побег	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1064.795#1065.405
+570	ааа	аа	PART_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1066.495#1067.335
+571	потом	потом	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1067.335#1067.765
+572	когда	когда	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1067.765#1068.195
+573	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1068.195#1068.625
+574	уже	уже	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1068.625#1069.055
+575	взялся	браться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#1069.055#1069.485
+576	за	за	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1069.485#1069.915
+577	эту	этот	PRON	Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1069.915#1070.345
+578	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1070.345#1070.775
+579	с	с	PREP_	_	_	_	@kyk1972m-words#@kyk1972m#1070.775#1071.205
+580	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1071.205#1071.635
+581	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1071.635#1072.065
+582	ааа	аа	PART_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1072.065#1072.505
+583	режиссера	режиссер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1072.715#1074.0
+584	у	у	PART	_	_	_	_	@kyk1972m-words#@kyk1972m#1074.0#1074.425
+585	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1074.425#1074.85
+586	лежало	лежать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1074.85#1075.275
+587	три	три	NUM	_	Case=Nom	_	_	_	@kyk1972m-words#@kyk1972m#1075.275#1075.7
+588	или	или	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1075.7#1076.125
+589	четыре	четыре	NUM	_	Case=Nom	_	_	_	@kyk1972m-words#@kyk1972m#1076.125#1076.55
+590	варианта	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1076.55#1076.975
+591	сценария	сценарий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1076.975#1077.4
+592	из	из	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1078.1#1078.525
+593	которых	который	PRON	_	Case=Gen	_	_	_	@kyk1972m-words#@kyk1972m#1078.525#1078.95
+594	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	@kyk1972m-words#@kyk1972m#1078.95#1079.375
+595	было	быть	VERB_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1079.375#1079.8
+596	сделать	делать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1079.8#1080.225
+597	какой-то	какой-то	ADJ_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1080.225#1080.65
+598	свой	свой	PRON_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1080.65#1081.075
+599	вариант	вариант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1081.075#1081.5
+600	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1082.015#1082.478
+601	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1082.478#1082.941
+602	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1082.941#1083.405
+603	эта	этот	PRON_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1083.705#1084.338
+604	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1084.338#1084.971
+605	связанная	связать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	@kyk1972m-words#@kyk1972m#1084.971#1085.604
+606	не	не	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1085.604#1086.237
+607	с	с	PREP_	_	_	_	_	@kyk1972m-words#@kyk1972m#1086.237#1086.87
+608	идеей	идея	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1086.87#1087.503
+609	давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1087.503#1088.136
+610	снимим	снимить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1088.136#1088.769
+611	фильм	фильм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1088.769#1089.405
+612	а	а	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1089.72#1090.176
+613	с	с	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1090.176#1090.632
+614	эээ	эээ	PREP_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1090.632#1091.09
+615	замыслом	замысль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1091.17#1091.605
+616	о	о	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1091.605#1092.04
+617	чем	что	ADV_	Case=Loc	_	_	_	@kyk1972m-words#@kyk1972m#1092.04#1092.475
+618	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	@kyk1972m-words#@kyk1972m#1092.475#1092.91
+619	быть	быть	VERB_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1092.91#1093.345
+620	этот	этот	PRON	Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1093.345#1093.78
+621	фильм	фильм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1093.78#1094.215
+622	ии	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1094.215#1094.65
+623	как	как	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1094.65#1095.085
+624	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#1095.085#1095.52
+625	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	@kyk1972m-words#@kyk1972m#1095.52#1095.955
+626	воздействовать	воздействовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1095.955#1096.4
+627	разные	разный	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1097.51#1098.255
+628	вещи	вещи	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1098.255#1098.855
+629	?	?	PUNCT	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1098.855#1099.0
+630	разные	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1099.68#1100.68
+631	да	да	PART_	_	_	_	_	@kyk1972m-words#@kyk1972m#1107.385#1107.891
+632	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1107.891#1108.397
+633	было	быть	VERB_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1108.397#1108.905
+634	ничего	ничто	PRON	_	Case=Gen	_	_	_	@kyk1972m-words#@kyk1972m#1110.19#1111.22
+635	ну	ну	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1147.38#1147.771
+636	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1147.771#1148.162
+637	сначала	сначала	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1148.162#1148.553
+638	отшучивался	отшучиваться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#1148.553#1148.944
+639	что	что	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1148.944#1149.335
+640	не	не	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1149.335#1149.726
+641	предложили	предложить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1149.726#1150.117
+642	на	на	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1150.117#1150.508
+643	тот	тот	PRON_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1150.508#1150.899
+644	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1150.899#1151.29
+645	комедии	комедия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1151.29#1151.681
+646	да	да	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1151.681#1152.0
+647	?	?	PUNCT	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1152.0#1152.075
+648	но	но	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1152.075#1152.539
+649	эээ	эээ	PA	_	_	_	_	@kyk1972m-words#@kyk1972m#1152.539#1153.003
+650	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1153.003#1153.467
+651	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1153.467#1153.931
+652	шутки	шуток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1153.931#1154.395
+653	на	на	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1154.43#1154.803
+654	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1154.803#1155.176
+655	деле дело NON @kyk1972m-words#@kyk1972m#1155.176#1155.549
+656	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1155.549#1155.922
+657	слава	слава	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1155.922#1156.295
+658	богу	бог	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1156.295#1156.668
+659	что	что	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1156.668#1157.041
+660	не	не	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1157.041#1157.414
+661	предложили	предложить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1157.414#1157.787
+662	комедию	комедия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1157.787#1158.16
+663	потому	потому	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1158.16#1158.533
+664	что	что	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1158.533#1158.906
+665	комедия	комедия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1158.906#1159.279
+666	намного	намного	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1159.279#1159.652
+667	серьезнее	серьезно	ADJ	_	Degree=Cmp	_	_	_	@kyk1972m-words#@kyk1972m#1159.652#1160.025
+668	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1160.025#1160.398
+669	намного	намного	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1160.398#1160.771
+670	сложнее	сложный	ADJ	_	Degree=Cmp	_	_	_	@kyk1972m-words#@kyk1972m#1160.771#1161.144
+671	сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1161.144#1161.517
+672	по	по	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1161.517#1161.89
+673	себе	себя	PRON	_	Case=Dat	_	_	_	@kyk1972m-words#@kyk1972m#1161.89#1162.28
+674	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1162.28#1162.819
+675	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1162.819#1163.358
+676	о	о	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1163.358#1163.897
+677	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1163.897#1164.436
+678	что	что	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1164.436#1164.975
+679	эээ	эээ	PART_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1164.975#1165.515
+680	было	быть	VERB_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1165.515#1166.411
+681	снято	снять	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	@kyk1972m-words#@kyk1972m#1166.411#1167.307
+682	достаточно	достаточно	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1167.307#1168.205
+683	фильмов	фильм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1169.48#1169.994
+684	ээ	ээ	PART__	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1169.994#1170.508
+685	рассказывающих	рассказывать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1170.508#1171.022
+686	о	о	PREP	_	_	_	@kyk1972m-words#@kyk1972m#1171.022#1171.536
+687	лагерных	лагерный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1171.536#1172.05
+688	событиях	событие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1172.05#1172.564
+689	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1172.564#1173.078
+690	о	о	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1173.078#1173.592
+691	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1173.592#1174.11
+692	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#1174.11#1175.006
+693	по-разному	по-разному	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1175.006#1175.902
+694	были	быть	VERB_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1175.902#1176.8
+695	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1176.8#1177.282
+696	в	в	PREP_	_	_	_	_	@kyk1972m-words#@kyk1972m#1177.282#1177.764
+697	них	они	PRON	_	Case=Loc|Number=Plur|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#1177.764#1178.246
+698	был	быть	VERB_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1178.246#1178.728
+699	разный	разный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1178.728#1179.21
+700	от	от	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1179.21#1179.692
+701	игровой	игровой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1179.692#1180.174
+702	смешной	смешной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1180.174#1180.656
+703	истории	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1180.656#1181.138
+704	до	до	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1181.138#1181.62
+705	прямо	прямо	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1181.62#1182.102
+706	практически	практически	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1182.102#1182.584
+707	документальной	документальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1182.584#1183.066
+708	вещи	вещь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1183.066#1183.548
+709	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1183.548#1184.03
+710	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1184.03#1184.512
+711	не	не	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1184.512#1184.994
+712	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1184.994#1185.476
+713	тягаться	тягаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#1185.476#1185.97
+714	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1185.97#1186.46
+715	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	@kyk1972m-words#@kyk1972m#1186.46#1186.95
+716	попытался	пытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#1186.95#1187.44
+717	рассказать	рассказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1187.44#1187.93
+718	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1187.93#1188.42
+719	о	о	PREP_	_	_	_	_	@kyk1972m-words#@kyk1972m#1188.42#1188.91
+720	людях	человек	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	_	_	_	@kyk1972m-words#@kyk1972m#1188.91#1189.4
+721	о	о	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1189.59#1190.011
+722	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1190.011#1190.432
+723	что	что	PRON	_	Case=Nom	_	_	_	@kyk1972m-words#@kyk1972m#1190.432#1190.853
+724	с	с	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1190.853#1191.274
+725	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#1191.274#1191.695
+726	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1191.695#1192.12
+727	об	о	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1192.12#1192.99
+728	их	их	PRON_	_	_	_	@kyk1972m-words#@kyk1972m#1192.99#1193.86
+729	чувственном	чувственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1193.86#1194.73
+730	диапазоне	диапазон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1194.73#1195.6
+731	и	и	CCONJ_	_	_	_	_	@kyk1972m-words#@kyk1972m#1196.35#1196.791
+732	через	через	ADV_	_	_	_	_	@kyk1972m-words#@kyk1972m#1196.791#1197.232
+733	эту	этот	PRON	Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1197.232#1197.673
+734	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1197.673#1198.114
+735	не	не	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1198.114#1198.555
+736	через	через	ADV__	_	_	_	_	@kyk1972m-words#@kyk1972m#1198.555#1198.996
+737	детективную	детективный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1198.996#1199.437
+738	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1199.437#1199.878
+739	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1199.878#1200.319
+740	как	как	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1200.319#1200.76
+741	ааа	аа	P_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1200.76#1201.201
+742	мммм	мммма	PART_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1201.201#1201.642
+743	эээ	эээ	PART_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1201.642#1202.085
+744	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#1202.085#1202.591
+745	договаривались	договариваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#1202.591#1203.097
+746	и	и	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1203.097#1203.603
+747	как	как	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1203.603#1204.109
+748	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#1204.109#1204.615
+749	ааа	аа	PART_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1204.96#1205.23
+750	выстраивали	выстраивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1205.23#1205.605
+751	план	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1205.605#1205.98
+752	а	а	CCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1205.98#1206.355
+753	о	о	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1206.355#1206.73
+754	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1206.73#1207.105
+755	что	что	PRON	_	Case=Nom	_	_	_	@kyk1972m-words#@kyk1972m#1207.105#1207.48
+756	с	с	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1207.48#1207.855
+757	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#1207.855#1208.23
+758	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1208.23#1208.605
+759	о	о	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1208.605#1208.98
+760	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1208.98#1209.355
+761	до	до	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1209.355#1209.73
+762	чего	что	SCONJ_	Case=Gen	_	_	_	@kyk1972m-words#@kyk1972m#1209.73#1210.105
+763	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#1210.105#1210.48
+764	довели	довести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	@kyk1972m-words#@kyk1972m#1210.48#1210.855
+765	что	что	SCONJ	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1210.855#1211.23
+766	в	в	PREP	_	_	_	_	@kyk1972m-words#@kyk1972m#1211.23#1211.605
+767	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1211.605#1211.995
+768	ммм	мм	PART_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1211.995#1212.607
+769	ааа	аа	PART_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1212.607#1213.22
+770	сподвигло	подвичь	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	@kyk1972m-words#@kyk1972m#1213.22#1213.656
+771	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	_	_	_	@kyk1972m-words#@kyk1972m#1213.656#1214.092
+772	на	на	ADP	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1214.092#1214.528
+773	такой	такой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1214.528#1214.964
+774	спонтанный	понтать	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1214.964#1215.4
+775	не	не	PART	_	_	_	_	_	@kyk1972m-words#@kyk1972m#1216.5#1217.226
+776	подготовленный	подготовить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	@kyk1972m-words#@kyk1972m#1217.226#1217.952
+777	практически	практически	ADV	_	Degree=Pos	_	_	_	@kyk1972m-words#@kyk1972m#1217.952#1218.68
+778	побег	побег	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1219.005#1219.92
+779	массовый	массовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@kyk1972m-words#@kyk1972m#1219.92#1220.835
+
